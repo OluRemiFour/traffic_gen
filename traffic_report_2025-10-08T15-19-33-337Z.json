@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2025-10-08T15:19:33.337Z",
+  "totalImpressions": 1,
+  "successfulVisits": 0,
+  "failedVisits": 1,
+  "successRate": 0,
+  "averageReadTime": 0,
+  "uniqueUserAgents": 1,
+  "impressionsByHour": {
+    "2025-10-08T15:00:00": 1
+  },
+  "recentImpressions": [
+    {
+      "timestamp": "2025-10-08T15:18:54.866Z",
+      "url": "https://url-tracker-icjf.onrender.com/your_url_tracker/HijCXw",
+      "success": false,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1 Ddg/18.6",
+      "ipAddress": "192.168.1.90",
+      "pageLoadTime": 1.9301853833871407,
+      "readTimeSeconds": 0,
+      "contentLength": 0,
+      "mouseMovements": [
+        {
+          "x": 1336,
+          "y": 570,
+          "timestamp": 1759936734893.1477
+        },
+        {
+          "x": 1248,
+          "y": 280,
+          "timestamp": 1759936736858.9553
+        },
+        {
+          "x": 611,
+          "y": 461,
+          "timestamp": 1759936736364.3806
+        },
+        {
+          "x": 1241,
+          "y": 673,
+          "timestamp": 1759936734905.9514
+        },
+        {
+          "x": 60,
+          "y": 1061,
+          "timestamp": 1759936735271.598
+        }
+      ],
+      "scrollDepth": 0.9162262558610588,
+      "screenResolution": "1600x900",
+      "language": "en-GB",
+      "timezone": "Europe/Paris",
+      "statusCode": 0
+    }
+  ]
+}
