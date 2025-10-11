@@ -8,7 +8,7 @@ class TrafficCronScheduler {
     this.jobs = new Map();
   }
 
-  setupCronJob(url, cronExpression = "0 */2 * * *") {
+  setupCronJob(url, cronExpression = "0 */20 * * *") {
     const jobId = `${url}_${Date.now()}`;
 
     const job = new CronJob(cronExpression, async () => {
